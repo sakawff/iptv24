@@ -82809,9 +82809,7 @@
 
 
 
-
-
-#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="V3.0 - 1/1/2024 | SELAMAT MENONTON!"
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="V3.0 - 1/1/2024 | MALAYSIA MADANI 🇲🇾"
 vod_library="https://t.ly/ua4rS"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -88467,7 +88465,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704305756/ei/_
   
   
 #####################################################################ASTRO###############################################################################
-#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="V3.0 - 1/1/2024 | SELAMAT MENONTON!"
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="V3.0 - 1/1/2024 | MALAYSIA MADANI 🇲🇾"
 vod_library="https://t.ly/ua4rS"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
