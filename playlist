@@ -82811,7 +82811,7 @@
 
 
 
-#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="V3.0 - 1/1/2024 | IPTV WATCH AND SLEEP"
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="V3.0 - 1/1/2024 | WATCH AND SLEEP"
 vod_library="https://t.ly/ua4rS"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
