@@ -85654,67 +85654,67 @@ https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Lifetime" ch-number=" " tvg-name="Lifetime HD" ch-number="703" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/ENTERTAIMENTLOGO.webp" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="ENTERTAINMENT",703 Lifetime (MY)
+#EXTINF:-1 tvg-id="Lifetime" ch-number=" " tvg-name="Lifetime HD" ch-number="703" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="ENTERTAINMENT",703 Lifetime (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
 
-##EXTINF:-1 tvg-id="Lifetime" ch-number=" " tvg-name="Lifetime HD" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",703 Lifetime (ID)
+##EXTINF:-1 tvg-id="Lifetime" ch-number=" " tvg-name="Lifetime HD" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png", 703 Lifetime (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-##EXTINF:-1 tvg-id="blueantent" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/5kmtnvJ/Rock-Entertainment.png", Rock Entertainment
+##EXTINF:-1 tvg-id="blueantent" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png" tvg-logo="https://i.ibb.co/5kmtnvJ/Rock-Entertainment.png", Rock Entertainment
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 # http://210.210.155.35:80/dr9445/h/h15/02.m3u8
 http://210.210.155.37/session/eb840bf4-25f3-11ed-9af7-9a7dadef5b77/dr9445/h/h16/01.m3u8
 
-##EXTINF:-1 tvg-id="blueantext" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/KLSyc92/Rock-Extreme.png", Rock Extreme
+##EXTINF:-1 tvg-id="blueantext" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png" tvg-logo="https://i.ibb.co/KLSyc92/Rock-Extreme.png", Rock Extreme
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/session/e775987a-25f3-11ed-8ba5-85009179245a/dr9445/h/h15/01.m3u8
 http://210.210.155.35:80/dr9445/h/h16/02.m3u8 
 
-##EXTINF:-1 tvg-logo="https://i.imgur.com/cyWbYaX.jpg" group-title="ENTERTAINMENT",Travel
+##EXTINF:-1 tvg-logo="https://i.imgur.com/cyWbYaX.jpg" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png", Travel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="ENTERTAINMENT",People Are Awesome
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png", People Are Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
-##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="ENTERTAINMENT",Just for Laughs Gags
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png", Just for Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
 
-##EXTINF:-1 tvg-id="StarWorldHDIndia.in" ch-number=" " tvg-name="Star World HD India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="ENTERTAINMENT",Star World 
+##EXTINF:-1 tvg-id="StarWorldHDIndia.in" ch-number=" " tvg-name="Star World HD India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png",Star World 
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155726
 
-##EXTINF:-1 tvg-id="GlobalGotTalent.us" ch-number=" " tvg-name="Global Got Talent" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="ENTERTAINMENT",Global Got Talent
+##EXTINF:-1 tvg-id="GlobalGotTalent.us" ch-number=" " tvg-name="Global Got Talent" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png",Global Got Talent
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 
-##EXTINF:-1 tvg-id="AEBestof.us" ch-number=" " tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="ENTERTAINMENT",A&E 
+##EXTINF:-1 tvg-id="AEBestof.us" ch-number=" " tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png",A&E 
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
-##EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="ENTERTAINMENT",Haunt TV 
+##EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png",Haunt TV 
 https://haunttv-roku.amagi.tv/playlist.m3u8?l1br3HA0501
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="ENTERTAINMENT",Dark Matter TV 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png",Dark Matter TV 
 https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="ENTERTAINMENT",American Horrors
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-##EXTINF:-1 tvg-ID="ColorsInfinity.in" ch-number=" " tvg-name="Colors Infinity" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/sonyinfinity.png" group-title="ENTERTAINMENT",Colors Infinity
+##EXTINF:-1 tvg-ID="ColorsInfinity.in" ch-number=" " tvg-name="Colors Infinity" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/sonyinfinity.png" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png",Colors Infinity
 https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-##EXTINF:-1 tvg-ID="ComedyCentral.in" tvg-logo="https://i.ibb.co/y0T82Z9/Logo-Comedy-Central-modified.png" group-title="ENTERTAINMENT",Comedy Central
+##EXTINF:-1 tvg-ID="ComedyCentral.in" tvg-logo="https://i.ibb.co/y0T82Z9/Logo-Comedy-Central-modified.png" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png",Comedy Central
 https://cdn-01.toffeelive.com/origin-03/live-origin/smil:comedy_central_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ROCKEntertainment" group-title="ENTERTAINMENT" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" ch-number="240",ROCK Entertainment (ID)
+#EXTINF:-1 tvg-id="ROCKEntertainment" group-title="ENTERTAINMENT" group-logo="https://cdn.logojoy.com/wp-content/uploads/2018/05/30153117/1918.png" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" ch-number="240",ROCK Entertainment (ID)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1eNcDznHat8khT1+oYxx5w", "kid":"V9KskhDPvKNZbMZ5oByLKQ" } ], "type":"temporary" }
 https://anevia114.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
