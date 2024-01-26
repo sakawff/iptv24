@@ -14,19 +14,6 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
   
-#EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.jpg" tvg-id="TV3" tvg-name="TV3" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.jpg" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.png", group-title="#JEPSTORE INFO",Welcome To StoreJep
-https://jepstoreott.jepstore057.workers.dev/0:/storejeporiginal.m3u8
-#EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.jpg" tvg-id="TV3" tvg-name="TV3" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.jpg" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.png", group-title="#JEPSTORE INFO",PEMBELIAN HANYA DI STOREJEP
-https://jepstoreott.jepstore057.workers.dev/0:/storejeporiginal.m3u8
-#EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.jpg" tvg-id="TV3" tvg-name="TV3" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.jpg" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.png", group-title="#JEPSTORE INFO",TIADA RESELLER DI SHOPEE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://jepstoreott.jepstore057.workers.dev/0:/storejeporiginal.m3u8
-  
-#EXTINF:-1 tvg-logo="https://down-ver-my.img.susercontent.com/my-11134004-7r98p-lnsxfnbbm9h9ea_tn.webp" tvg-id="TV3" tvg-name="TV3" group-logo="https://down-ver-my.img.susercontent.com/my-11134004-7r98p-lnsxfnbbm9h9ea_tn.webp" tvg-logo="https://down-ver-my.img.susercontent.com/my-11134004-7r98p-lnsxfnbbm9h9ea_tn.webp", group-title="#SCAMMER SHOPEE",JANGAN TERTIPU SCAMMER NI
-https://jepstoreiptv.atullijai.workers.dev/0:/scammer.m3u8
-  
-  
-  
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/MALAYLOGO.png" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/jepstore.jpg", 100 Live Astro 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
