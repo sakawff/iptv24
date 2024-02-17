@@ -241,8 +241,9 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
-#EXTINF:-1 tvg-id="Astro Prima" ch-number="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Astro_Prima.png/revision/latest?cb=20200922170238" group-title="MALAYSIA",105 Astro Prima
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
+#EXTINF:-1 tvg-id="Astro Prima" ch-number="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/PRIMA.png" group-title="MALAYSIA",105 Astro Prima
+#EXTVLCOPT:http-referrer=https://f1461578-c292-4746-a20e-65408d67495b.ref
+https://1.go-ott.workers.dev/f1461578-c292-4746-a20e-65408d67495b/prima.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
