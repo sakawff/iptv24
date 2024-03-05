@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="IPTV 4 ALL"
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="WELCOME TO OTT 2024 ^.^"
 
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/MALAYLOGO.png" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/TV1.png", 101 TV1 (server 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
