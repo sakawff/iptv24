@@ -239,9 +239,9 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Astro Prima" ch-number="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://jepstoreott.jepstore9.workers.dev/0:/jepstorelogobaru/PRIMA.png" group-title="MALAYSIA",105 Astro Prima
-#EXTVLCOPT:http-referrer=https://2b6c13bd-a692-4a66-8bc7-4e652e86ef6a.ref
-https://abg.go-ott.workers.dev/2b6c13bd-a692-4a66-8bc7-4e652e86ef6a/prima2.mpd
+#EXTINF:-1 tvg-id="Astro Prima" ch-number="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Astro_Prima_HD.png/revision/latest?cb=20201022092334" group-title="MALAYSIA",105 Astro Prima
+#EXTVLCOPT:http-referrer=https://50478cab-14e7-4092-95a2-701b87212463.ref
+https://live.ferymaleha.workers.dev/m.ott-1.xyz/m9rV2D?uuid=50478cab-14e7-4092-95a2-701b87212463
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -249,23 +249,24 @@ https://abg.go-ott.workers.dev/2b6c13bd-a692-4a66-8bc7-4e652e86ef6a/prima2.mpd
 #EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id="Astro Oasis HD" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/OASIS.webp" group-title="MALAYSIA",106 Astro Oasis 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna.my" ch-number="107" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://jepstoreott.jepstore9.workers.dev/0:/jepstorelogobaru/WARNA.png",107 Astro Warna
+#EXTINF:-1 tvg-id="AstroWarna.my" ch-number="107" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Astro_Warna_HD.png/revision/latest?cb=20200930161625",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CoDiDFaOiOU8cIfBxkkzGA","kid":"qixlPwwFVnrig8SjJxqYEA"}],"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://2b6c13bd-a692-4a66-8bc7-4e652e86ef6a.ref
-https://abg.go-ott.workers.dev/2b6c13bd-a692-4a66-8bc7-4e652e86ef6a/warna2.mpd
+#EXTVLCOPT:http-referrer=https://50478cab-14e7-4092-95a2-701b87212463.ref
+https://live.ferymaleha.workers.dev/m.ott-1.xyz/nM4uG9?uuid=50478cab-14e7-4092-95a2-701b87212463
   
-#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://jepstoreott.jepstore9.workers.dev/0:/jepstorelogobaru/CITRA.png",108 Astro Citra
+#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Citra_HD.png/revision/latest?cb=20201215114828",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZU8tJaW/snyeWuCFJYShZg","kid":"hL+a1oSL59sg+dFoI97vEA"}],"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://2b6c13bd-a692-4a66-8bc7-4e652e86ef6a.ref
-https://abg.go-ott.workers.dev/2b6c13bd-a692-4a66-8bc7-4e652e86ef6a/citra2.mpd
+#EXTVLCOPT:http-referrer=https://50478cab-14e7-4092-95a2-701b87212463.ref
+https://live.ferymaleha.workers.dev/m.ott-1.xyz/gmeQ8c?uuid=50478cab-14e7-4092-95a2-701b87212463
+
   
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://jepstoreott.jepstore9.workers.dev/0:/jepstorelogobaru/RIA.png", 104 Astro Ria
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Astro_Ria_HD.png/revision/latest?cb=20200929180948", 104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referrer=https://2b6c13bd-a692-4a66-8bc7-4e652e86ef6a.ref
-https://abg.go-ott.workers.dev/2b6c13bd-a692-4a66-8bc7-4e652e86ef6a/ria2.mpd
+#EXTVLCOPT:http-referrer=https://50478cab-14e7-4092-95a2-701b87212463.ref
+https://live.ferymaleha.workers.dev/m.ott-1.xyz/wNZ8yL?uuid=50478cab-14e7-4092-95a2-701b87212463
 
   
 #EXTINF:-1 tvg-id="AstroPremier" ch-number="410" group-title="MALAYSIA" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/AstroPremier.png",410 Astro Premier
