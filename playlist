@@ -283,6 +283,30 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XUmxOR05qWW1NdFl6YzRNeTAwWVdFd0xUa3dNR1l0TURBNU5XVXpZbUprWVRkayIsIndtb3BpZCI6MzIsImV4cCI6MTcxNzE3ODAzOCwiaWF0IjoxNzE2NTc0MDM4fQ._T7CASVtDAPqIg7E90nzYVQ84YtrfgWNPI2OzXrMnFc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="ASTRO NJOY!" group-logo="https://ibb.co/MkWWrL4" tvg-id="AstroArena2",Astro Arena 2
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XUmxOR05qWW1NdFl6YzRNeTAwWVdFd0xUa3dNR1l0TURBNU5XVXpZbUprWVRkayIsIndtb3BpZCI6MzIsImV4cCI6MTcxNzE3ODAzOCwiaWF0IjoxNzE2NTc0MDM4fQ._T7CASVtDAPqIg7E90nzYVQ84YtrfgWNPI2OzXrMnFc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="ASTRO NJOY!" group-logo="https://ibb.co/MkWWrL4" tvg-id="AstroArenaBola",Arena Bola
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XUmxOR05qWW1NdFl6YzRNeTAwWVdFd0xUa3dNR1l0TURBNU5XVXpZbUprWVRkayIsIndtb3BpZCI6MzIsImV4cCI6MTcxNzE3ODAzOCwiaWF0IjoxNzE2NTc0MDM4fQ._T7CASVtDAPqIg7E90nzYVQ84YtrfgWNPI2OzXrMnFc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="ASTRO NJOY!" group-logo="https://ibb.co/MkWWrL4" tvg-id="AstroArenaBola2",Arena Bola 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
  #####################################################################ASTRO###############################################################################
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/matthuisman/i.mjh.nz/54e4492de98077dcb54f9b410370647444fdacff/PlutoTV/all.xml.gz"
 #EXTM3U x-tvg-url=" vod_library="https://t.ly/MY5qL"
