@@ -409,14 +409,14 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="SPOTVStadia" ch-number="808" group-title="SPORTS;UEFA EURO 2024" group-logo="https://iili.io/JyiGwxf.png" tvg-logo="https://iili.io/JyUggIt.png",808 SPOTV Stadia (SOOKA)
+#EXTINF:-1 tvg-id="SPOTVStadia" ch-number="808" group-title="UEFA EURO 2024" group-logo="https://iili.io/JyiGwxf.png" tvg-logo="https://iili.io/JyUggIt.png",808 SPOTV Stadia (SOOKA)
 https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6o+kPMcQLkgc1EHFiy7LCA", "kid":"58ZQrHLc0DEUEYMqgnG7EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="SPOTVStadia" ch-number="808" group-title="SPORTS;UEFA EURO 2024" group-logo="https://iili.io/JyiGwxf.png" tvg-logo="https://iili.io/JyUggIt.png",808 SPOTV Stadia
+#EXTINF:-1 tvg-id="SPOTVStadia" ch-number="808" group-title="UEFA EURO 2024" group-logo="https://iili.io/JyiGwxf.png" tvg-logo="https://iili.io/JyUggIt.png",808 SPOTV Stadia
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
   
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTcyMTc5MiwiaWF0IjoxNzE5MTE3NzkyfQ.VxcysDy0eabT3q3wycAKKNizd6E2GllUMJyLMZcMiPc"}
@@ -424,13 +424,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BB2TjTWHy6OnCdWI0ipusg", "kid":"kUNrnszvTVOGzuRbm7V2lg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="SPOTV2Stadia" ch-number="809" group-title="SPORTS;UEFA EURO 2024" tvg-logo="https://iili.io/d2lEKpS.png",809 SPOTV2 Stadia (SOOKA)
+#EXTINF:-1 tvg-id="SPOTV2Stadia" ch-number="809" group-title="UEFA EURO 2024" tvg-logo="https://iili.io/d2lEKpS.png",809 SPOTV2 Stadia (SOOKA)
 https://do3s959wk9gaq.cloudfront.net/CH1/masterCH1.mpd
  
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1nOa7mx2dBdjmS03zGbxuA", "kid":"964dxxzFj7h2tOZZF0+cEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="SPOTV2Stadia" ch-number="809" group-title="SPORTS;UEFA EURO 2024" tvg-logo="https://iili.io/d2lEKpS.png",809 SPOTV2 Stadia
+#EXTINF:-1 tvg-id="SPOTV2Stadia" ch-number="809" group-title="UEFA EURO 2024" tvg-logo="https://iili.io/d2lEKpS.png",809 SPOTV2 Stadia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5149/default.mpd
 
  #####################################################################ASTRO###############################################################################
