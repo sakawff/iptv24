@@ -90,7 +90,7 @@ https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Astro Prima" ch-number="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO|NJOY" group-logo="https://telegra.ph/file/9deca7a1e1093fe2ac445.png",105 Astro Prima
 #EXTVLCOPT:http-referrer=https://cde61fb3-4047-459f-b49b-1de6e56dab78.ref
-https://linears-playback.astro.com.my/vsg/41QtPz7a8OCUE54tkN8A2xgD4OAdC2WExYKPCnIaq0dIU=1nGC/dash-wv/jitp-dashisowm/1000/default.mpd
+https://linears-playback.astro.com.my/vsg/41I-Av4dIIahBTKFZ-4aH1rXGqgpwhHOY2GYH87hRUxWo=e3p0/dash-wv/jitp-linearwm/1000/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -102,18 +102,18 @@ https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-id="AstroWarna.my" ch-number="107" tvg-name="Astro Warna HD" group-title="ASTRO|NJOY" group-logo="https://telegra.ph/file/9deca7a1e1093fe2ac445.png" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CoDiDFaOiOU8cIfBxkkzGA","kid":"qixlPwwFVnrig8SjJxqYEA"}],"type":"temporary"}
-https://linears-playback.astro.com.my/vsg/41F__g-wAttLqzJZcsUfJD8WJvDuWoF8PoDsP2EOaitrw=kb0W/dash-wv/jitp-dashisowm/2402/default.mpd
+https://linears-playback.astro.com.my/vsg/41QUHf8EHp6yLNrzV6TqqbPb7KL-GqbJ3Aa9F0V0gKrek=_mI0/dash-wv/jitp-linearwm/2402/default.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="ASTRO|NJOY" group-logo="https://telegra.ph/file/9deca7a1e1093fe2ac445.png" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZU8tJaW/snyeWuCFJYShZg","kid":"hL+a1oSL59sg+dFoI97vEA"}],"type":"temporary"}
-https://linears-playback.astro.com.my/vsg/41egpQ0nZTYuOsokxbzBfrLMTOjzi8X64L87fauf0cV7c=RrJn/dash-wv/jitp-dashisowm/2700/default.mpd
+https://linears-playback.astro.com.my/vsg/41Rbio1SWvXoyGluwCDwOL0QyweDhOcwTf0w_x_ks17BQ=L_KF/dash-wv/jitp-linearwm/2700/default.mpd
 
 
 #EXTINF:-1 group-title="ASTRO|NJOY" group-logo="https://telegra.ph/file/9deca7a1e1093fe2ac445.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", 104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41m5TmvUnhM4LgP3HWPMoSCq2DAQKBfGL0tyu24CTq_Gg=82MM/dash-wv/jitp-linearwm/1004/default.mpd
+https://linears-playback.astro.com.my/vsg/41scIXgYpw-Urwea8trBxwCF-_XHsp01aphnYmRXL-kU8=r4AK/dash-wv/jitp-linearwm/1004/default.mpd
 
 #EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="ASTRO|NJOY" group-logo="https://telegra.ph/file/9deca7a1e1093fe2ac445.png"  ch-number="801" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg", 801 Astro Arena 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -404,6 +404,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTcyMTc5MiwiaWF0IjoxNzE5MTE3NzkyfQ.VxcysDy0eabT3q3wycAKKNizd6E2GllUMJyLMZcMiPc"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SPOTVStadia" ch-number="808" group-title="SPORTS;UEFA EURO 2024" group-logo="https://iili.io/JyiGwxf.png" tvg-logo="https://iili.io/JyUggIt.png",808 SPOTV Stadia (SOOKA)
+https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6o+kPMcQLkgc1EHFiy7LCA", "kid":"58ZQrHLc0DEUEYMqgnG7EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SPOTVStadia" ch-number="808" group-title="SPORTS;UEFA EURO 2024" group-logo="https://iili.io/JyiGwxf.png" tvg-logo="https://iili.io/JyUggIt.png",808 SPOTV Stadia
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+  
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTcyMTc5MiwiaWF0IjoxNzE5MTE3NzkyfQ.VxcysDy0eabT3q3wycAKKNizd6E2GllUMJyLMZcMiPc"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BB2TjTWHy6OnCdWI0ipusg", "kid":"kUNrnszvTVOGzuRbm7V2lg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SPOTV2Stadia" ch-number="809" group-title="SPORTS;UEFA EURO 2024" tvg-logo="https://iili.io/d2lEKpS.png",809 SPOTV2 Stadia (SOOKA)
+https://do3s959wk9gaq.cloudfront.net/CH1/masterCH1.mpd
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1nOa7mx2dBdjmS03zGbxuA", "kid":"964dxxzFj7h2tOZZF0+cEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SPOTV2Stadia" ch-number="809" group-title="SPORTS;UEFA EURO 2024" tvg-logo="https://iili.io/d2lEKpS.png",809 SPOTV2 Stadia
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5149/default.mpd
 
  #####################################################################ASTRO###############################################################################
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/matthuisman/i.mjh.nz/54e4492de98077dcb54f9b410370647444fdacff/PlutoTV/all.xml.gz"
