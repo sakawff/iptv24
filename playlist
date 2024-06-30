@@ -274,14 +274,6 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
 
-#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="ASTRO|NJOY" group-logo="https://telegra.ph/file/9deca7a1e1093fe2ac445.png" ch-number="801" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg", 801 Astro Arena 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMDE4NDA1NCwiaWF0IjoxNzE5NTgwMDU0fQ.5hzAWVwOeP400S8RRfzQRfTjQKBWQ9k04tpKZRniFog"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
