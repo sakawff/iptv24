@@ -1134,7 +1134,7 @@ https://linear20-playback.sooka.my/CH1/masterCH1.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
   
-#EXTINF:-1 tvg-id="795stro" tvg-name="Astro OLY 16" ch-number="786" group-title="Paris 2024;SPORTS" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png",796 RTM Paris 2024 CH2
+#EXTINF:-1 tvg-id="795stro" tvg-name="Astro OLY 16" ch-number="786" group-title="Paris 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png",796 RTM Paris 2024 CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
