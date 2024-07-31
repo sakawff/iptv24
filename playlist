@@ -1001,6 +1001,164 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZBfCZe7/U326G8VBjwB60g", "kid":"QdoJWBnHSzCqlNryuDzjeQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="780.astro" ch-number="780" tvg-name="Astro OLY 1" group-title="Paris 2024" group-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",780 Paris 2024
+https://linear14-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hV2W/lySIxPPIcLVAPQebw", "kid":"Pi2FlBffQYG0nisy3Prrtg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="781.astro" tvg-name="Astro OLY 2" ch-number="781" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",781 Paris 2024
+https://linear14-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"j/KykdywNJ2P2555oRWMQg", "kid":"4eJFv3h+SzSOPhURn0L00w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="782.astro" tvg-name="Astro OLY 3" ch-number="782" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",782 Paris 2024
+https://linear14-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nc0GFjQF/wTaJrkvU21BRg", "kid":"0LGqh4x5SuiPxqWThIQdRA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="783.astro" tvg-name="Astro OLY 4" ch-number="783" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",783 Paris 2024
+https://linear15-playback.sooka.my/CH1/masterCH1.mpd
+ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rO4p/Y7DMX0aZmrLD04djw", "kid":"4SVTc2giSjSp/xxW8dnLFA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="784.astro" tvg-name="Astro OLY 5" ch-number="784" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",784 Paris 2024
+https://linear15-playback.sooka.my/CH2/masterCH2.mpd
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rGc43q3Y1haTWbPzP3JS7g", "kid":"3V8lLNMuSZWq8gjnOBcL5w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="785.astro" tvg-name="Astro OLY 6" ch-number="785" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",785 Paris 2024
+https://linear15-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VYm6JmXI2v2p+5fz1+9Sbg", "kid":"bxWpsvJ7StqpWQUNtgPAjw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="786.astro" tvg-name="Astro OLY 7" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",786 Paris 2024
+https://linear15-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BB2TjTWHy6OnCdWI0ipusg", "kid":"kUNrnszvTVOGzuRbm7V2lg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="787.astro" tvg-name="Astro OLY 8" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",787 Paris 2024
+https://linear18-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w594evEFbniP95Wzqr4fJg", "kid":"Kz9wDO7YSluerAQxXkHA+A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="788.astro" tvg-name="Astro OLY 9" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",788 Paris 2024
+https://linear18-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DbKjS5hd/GjhPzfAXAg3bw", "kid":"ZzD5sk5GR46eUZU5JCWTOA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="789.astro" tvg-name="Astro OLY 10" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",789 Paris 2024
+https://linear18-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cccogzth+cLCrfkyFaI+4g", "kid":"zEnmpI/sQpWdXhKSgWCdGA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="790.astro" tvg-name="Astro OLY 11" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",790 Paris 2024
+https://linear18-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w2dLh4HJEkpQDXOaWdvpPw", "kid":"KGPMekF1SUWNd/QcP/Zh9g" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="791.astro" tvg-name="Astro OLY 12" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",791 Paris 2024
+https://linear19-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v7VYeO6Ke2X09ddTiA6Hgw", "kid":"dEyuPgRyRlaGT9DVUr2Omw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="792.astro" tvg-name="Astro OLY 13" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",792 Paris 2024
+https://linear19-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lVjXdOQyOZMK5gMkBWgowQ", "kid":"4BQ1ahEvReydNAmkSMfkwg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="793.astro" tvg-name="Astro OLY 14" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",793 Paris 2024
+https://linear19-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RS/pxdelTqstqAMWMX7Jxg", "kid":"F2a5U/1LRIaxH86P8b2t4Q" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="794.astro" tvg-name="Astro OLY 15" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",794 Paris 2024
+https://linear19-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXVTJZamxpT0RRdFpUVmpaUzAwWVRobUxXSm1ZVE10WlRnNFptTTBaR001TkRNNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjgyMDEyNywiaWF0IjoxNzIyMjE2MTI3fQ.aBw47mcWnTGd-rRKy-yw9medzQAxxxJDAJoqBgaiJjc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5sr8DCLEvVDpkV9aQXw61w", "kid":"nL3UfqXmRbGR3yo9Vwu8Eg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="795stro" tvg-name="Astro OLY 16" ch-number="786" group-title="Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",795 Paris 2024
+https://linear20-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="795stro" tvg-name="Astro OLY 16" ch-number="786" group-title="Paris 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png",796 RTM Paris 2024 CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+  
+#EXTINF:-1 tvg-id="795stro" tvg-name="Astro OLY 16" ch-number="786" group-title="Paris 2024;SPORTS" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png",796 RTM Paris 2024 CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+  
+#EXTINF:-1 tvg-id="795stro" tvg-name="Astro OLY 16" ch-number="786" group-title="Paris 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png",796 RTM Paris 2024 CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+  
+#EXTINF:-1 tvg-id="795stro" tvg-name="Astro OLY 16" ch-number="786" group-title="Paris 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png",796 RTM Paris 2024 CH4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+  
+#EXTINF:-1 tvg-id="795stro" tvg-name="Astro OLY 16" ch-number="786" group-title="Paris 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png",796 RTM Paris 2024 CH5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+  
+#EXTINF:-1 tvg-id="795stro" tvg-name="Astro OLY 16" ch-number="786" group-title="Paris 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png",796 RTM Paris 2024 CH6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+
  #####################################################################ASTRO###############################################################################
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/matthuisman/i.mjh.nz/54e4492de98077dcb54f9b410370647444fdacff/PlutoTV/all.xml.gz"
 #EXTM3U x-tvg-url=" vod_library="https://t.ly/MY5qL"
