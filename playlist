@@ -85,12 +85,6 @@ https://dost.worst.workers.dev/129/index.mpd
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",108 Astro Citra (C)
 https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2700/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6l8cd1SD764hJHtcSCY3NQ", "kid":"6cxVKootRqsFyCe286WbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="483.astro" group-title="AstroFIRST" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/148_144.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/148_144.png",Astro First CH483
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default.mpd
 
 #EXTINF:-1 player-buffer="2" tvg-id="106.astro" ch-number="106" tvg-name="OASIS HD" tvg-logo="https://www.dropbox.com/scl/fi/62pn8eisygnogs4mx3u1h/Oasis.png?rlkey=r2y5i8634i6rl8kr4jdh1soye&dl=1" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png",106 Astro Oasis HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -116,7 +110,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #EXTINF:-1 player-buffer="2" tvg-id="114.astro" ch-number="114" tvg-name="TV ALHIJRAH" tvg-logo="https://www.dropbox.com/scl/fi/zygtqozcdk3tpmc7l8mwq/Alhijrah.png?rlkey=xpzjossxrbdnsmx724sqake2k&dl=1" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png", 114 TV Al-Hijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/manifest.mpd
+https://linearjitp-payback.astro.com.my/dash-wv/linear/1113/manifest.mpd
 
 #EXTINF:-1 player-buffer="2" tvg-id="122.astro" ch-number="122" tvg-name="TVS" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" tvg-logo="https://www.dropbox.com/scl/fi/ljkoza8u03ily1afmxupn/Tvs.png?rlkey=4y1wym7bxyyvoybymik9u58fl&dl=1",122 TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
